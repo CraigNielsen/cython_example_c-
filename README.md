@@ -20,6 +20,9 @@ Usage
 -----
 
     from rect import PyRectangle
+
 ( defined in the .pyx file )
+
     a_rectangle = PyRectange(2,2,1,1)
+
     #perform some operations in python
