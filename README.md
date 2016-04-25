@@ -21,7 +21,7 @@ Usage
 
     from rect import PyRectangle
 
-( defined in the .pyx file )
+( PyRectange python class as defined in the .pyx file )
 
     a_rectangle = PyRectange(2,2,1,1)
 
